@@ -8,3 +8,19 @@
   justify-content: center;
   align-items: center;
 }
+
+.cur-por {
+  cursor: pointer;
+}
+
+.collection-title {
+  font-size: 30px;
+  color: var(--heading-text);
+  margin-bottom: 32px;
+  font-weight: 600;
+}
+
+.slick-next::before,
+.slick-prev::before {
+  color: var(--gray);
+}
