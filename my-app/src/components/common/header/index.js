@@ -13,7 +13,7 @@ const Header = () => {
           <div className="location-wrapper">
             <div className="location-icon-name">
               <i className="fi fi-rr-marker absolute-center location-icon"></i>
-              <div>Banglore</div>
+              <div>Pune</div>
             </div>
             <i class="fi fi-rr-caret-down absolute-center"></i>
           </div>
